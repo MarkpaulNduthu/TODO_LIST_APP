@@ -123,7 +123,7 @@ cd todolist-compose
 
 #### **_Markpaul Nduthu Mwema_**  
 
-📚 Computer Science Student | Kotlin & Java Developer | Spring Boot | Exploring AI  
+📚 Computer Science Student | Full-Stack Web & Mobile Developer (Java, Kotlin, React, Spring Boot) | AI Explorer (Python, TensorFlow, NumPy, Pandas, Matplotlib,Scikit-learn)  
 💼 [LinkedIn](https://www.linkedin.com/in/markpaul-mwema-1b35921b6/) · [GitHub](https://github.com/MarkpaulNduthu/)
 
 ---
